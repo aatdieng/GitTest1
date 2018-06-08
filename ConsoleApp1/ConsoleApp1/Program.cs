@@ -16,6 +16,8 @@ namespace ConsoleApp1
             if (i == 10)
             Console.WriteLine("ceci est un test de tout ca ");
             Console.ReadKey();
+
+            //appeler loubess classe
         }
     }
 }
