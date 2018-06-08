@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             //kirasoulay Git rek
             //Diangue rek mo woor
+            var i = 10;
+            if (i == 10)
             Console.WriteLine("ceci est un test de tout ca ");
             Console.ReadKey();
         }
