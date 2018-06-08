@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //kirasoulay Git rek
+            //Diangue rek mo woor
             Console.WriteLine("ceci est un test de tout ca ");
             Console.ReadKey();
         }
