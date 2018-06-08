@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //kirasoulay Git rek
             Console.WriteLine("ceci est un test de tout ca ");
             Console.ReadKey();
         }
